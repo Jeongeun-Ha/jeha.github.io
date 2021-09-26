@@ -12,12 +12,12 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hkkang@dblab.postech.ac.kr
+    email: jeha@dblab.postech.ac.kr
     phone: 054-xxx-xxxx
 #    website: blog.webjeda.com #do not add http://
 #    linkedin: alandoe
 #    xing: alandoe
-    github: Jeongeun-Ha
+    github: jeha-dblab
 #    telegram: # add your nickname without '@' sign
 #    gitlab:
 #    bitbucket:
