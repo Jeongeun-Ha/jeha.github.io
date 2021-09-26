@@ -30,7 +30,7 @@ sidebar:
       - item: Machine Learning
         link:
 
-      - item: Natural Language Processing
+      - item: Self-Driving DBMS
         link:
 
       - item: Deep Learning Application
@@ -41,17 +41,17 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Good
 
 career-profile:
     title: About Me
     summary: |
-      I am a Ph.D. Student in the Dept. Computer Science and Engineering at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
+      I am a Master Student in Graduate School of AI at Pohang University of Science and Technology (POSTECH). I am doing research under the supervision of Professor Wook-Shin Han.
       
 education:
-    - degree: Ph.D in Computer Science
+    - degree: M.S. in Graduate School of AI
       university: Pohang University of Science of Technology (POSTECH)
-      time: 2019 - present
+      time: 2021 - present
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -60,9 +60,9 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-    - degree: B.S in Computer Science
+    - degree: B.S in Chemistry
       university: Pohang University of Science of Technology (POSTECH)
-      time: 2015 - 2019
+      time: 2015 - 2020
 #       details: |
 #         Describe your study here lorem ipsum dolor sit amet, consectetuer
 #         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,17 +72,13 @@ education:
 #           - Bullet point
 #           - Bullet point
 experiences:
-    - role: Ph.D. in Computer Science and Engineering
-      time: 2019 - present
+    - role: M.S. in Graduate School of AI
+      time: 2021 - present
       company: Pohang University of Science of Technology (POSTECH)
 
-    - role: B.S. in Computer Science and Engineering
-      time: 2015 - 2019
-      company: Pohang University of Science of Technology (POSTECH)
-
-    - role: Intern
-      time: 2018.6 - 2018.8
-      company: Netmarble, Seoul Korea
+    - role: Engineer
+      time: 2020.1 - 2021.1
+      company: Samsung Electronics DS, Hwasung Korea
 #       details:  
 #           I was in the AI research team. I developed AI agents for mobile strategy games
 #         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -94,6 +90,10 @@ experiences:
 #         error sit voluptatem accusantium doloremque laudantium, totam rem
 #         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
 #         architecto beatae vitae dicta sunt explicabo.
+    - role: B.S. in Chemistry
+      time: 2015 - 2020
+      company: Pohang University of Science of Technology (POSTECH)
+      
 # projects:
 #     title: Projects
 #     intro: >
